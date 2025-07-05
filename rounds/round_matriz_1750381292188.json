@@ -1,0 +1,50 @@
+{
+  "id": "1750381292188",
+  "plant": "matriz",
+  "turn": "diurno",
+  "startTime": "2025-06-20T01:01:32.188Z",
+  "locations": {
+    "MTZ_ENTRADA_001": {
+      "timestamp": "2025-06-20T01:02:48.602Z",
+      "observations": [
+        {
+          "locationId": "MTZ_ENTRADA_001",
+          "text": "Todo en orden",
+          "timestamp": "2025-06-20T01:03:31.000Z",
+          "type": "observation",
+          "incidentType": null,
+          "plant": "matriz",
+          "turn": "diurno",
+          "photoUrl": "https://res.cloudinary.com/dadfisfpx/image/upload/v1750381409/rondas-photos/sl9n5rgvuija3agjrfxk.jpg"
+        }
+      ],
+      "photos": [
+        "https://res.cloudinary.com/dadfisfpx/image/upload/v1750381409/rondas-photos/sl9n5rgvuija3agjrfxk.jpg"
+      ]
+    },
+    "MTZ_PASILLO_A_002": {
+      "timestamp": "2025-06-20T01:02:52.139Z",
+      "observations": [],
+      "photos": []
+    },
+    "MTZ_PASILLO_B_003": {
+      "timestamp": "2025-06-20T01:03:06.117Z",
+      "observations": [],
+      "photos": []
+    },
+    "MTZ_ALMACEN_1_004": {
+      "timestamp": "2025-06-20T01:03:39.620Z",
+      "observations": [],
+      "photos": []
+    }
+  },
+  "incidents": [],
+  "completed": true,
+  "endTime": "2025-06-20T01:04:05.229Z",
+  "savedAt": "2025-07-05T00:45:40.444Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-05T00:45:51.349Z",
+  "uploadedFrom": "mobile"
+}
