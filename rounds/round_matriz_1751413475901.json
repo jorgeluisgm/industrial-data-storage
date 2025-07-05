@@ -28,10 +28,10 @@
   "completed": true,
   "endTime": "2025-07-01T23:45:10.915Z",
   "completionPercentage": 0,
-  "savedAt": "2025-07-05T00:54:45.959Z",
+  "savedAt": "2025-07-05T00:58:25.094Z",
   "synced": false,
-  "device": "mobile",
+  "device": "desktop",
   "syncVersion": 1,
-  "uploadedAt": "2025-07-05T00:55:22.902Z",
-  "uploadedFrom": "mobile"
+  "uploadedAt": "2025-07-05T01:01:09.869Z",
+  "uploadedFrom": "desktop"
 }
