@@ -1,0 +1,27 @@
+{
+  "id": "1751583034815_l9zt2km4m",
+  "locationId": "MTZ_OFICINA_006",
+  "text": "Fuga de agua baño hombres",
+  "timestamp": "2025-07-03T22:50:34.816Z",
+  "type": "incident",
+  "incidentType": "mantenimiento",
+  "plant": "matriz",
+  "turn": "diurno",
+  "photoData": {
+    "id": 7,
+    "size": 36563,
+    "timestamp": "2025-07-03T22:50:31.733Z",
+    "stored": "indexeddb",
+    "cloudBackup": {
+      "backedUp": false,
+      "pending": true
+    }
+  },
+  "hasPhoto": true,
+  "savedAt": "2025-07-05T00:45:40.728Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-05T00:47:08.382Z",
+  "uploadedFrom": "mobile"
+}
