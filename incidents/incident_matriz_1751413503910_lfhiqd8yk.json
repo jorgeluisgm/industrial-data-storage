@@ -1,0 +1,23 @@
+{
+  "id": "1751413503910_lfhiqd8yk",
+  "locationId": "MTZ_OFICINA_006",
+  "text": "Fuga de agua",
+  "timestamp": "2025-07-01T23:45:03.910Z",
+  "type": "incident",
+  "incidentType": "mantenimiento",
+  "plant": "matriz",
+  "turn": "diurno",
+  "photoData": {
+    "id": 2,
+    "size": 36076,
+    "timestamp": "2025-07-01T23:44:55.966Z",
+    "stored": "indexeddb"
+  },
+  "hasPhoto": true,
+  "savedAt": "2025-07-05T00:45:40.607Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-05T00:46:30.534Z",
+  "uploadedFrom": "mobile"
+}
