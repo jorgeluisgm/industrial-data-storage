@@ -1,0 +1,18 @@
+{
+  "locationId": "MTZ_PASILLO_A_002",
+  "text": "Goku comiendo papas con vegueta",
+  "timestamp": "2025-06-28T16:42:42.349Z",
+  "type": "incident",
+  "incidentType": "personas",
+  "plant": "matriz",
+  "turn": "diurno",
+  "photoUrl": "blob:https://jorgeluisgm.github.io/eb302798-2ea7-4939-bb25-052f66ad2db2",
+  "hasPhoto": true,
+  "id": "1751676340538_6344y44lp_incident",
+  "savedAt": "2025-07-05T00:45:40.539Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-05T00:46:07.701Z",
+  "uploadedFrom": "mobile"
+}
