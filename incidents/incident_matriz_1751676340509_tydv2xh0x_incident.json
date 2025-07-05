@@ -1,0 +1,17 @@
+{
+  "locationId": "MTZ_OFICINA_006",
+  "text": "Jdjdjdkkd",
+  "timestamp": "2025-06-20T01:04:37.149Z",
+  "type": "incident",
+  "incidentType": "seguridad",
+  "plant": "matriz",
+  "turn": "diurno",
+  "photoUrl": "https://res.cloudinary.com/dadfisfpx/image/upload/v1750381475/rondas-photos/uqlefkhg8sv6a221lcyv.jpg",
+  "id": "1751676340509_tydv2xh0x_incident",
+  "savedAt": "2025-07-05T00:45:40.509Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-05T00:45:56.183Z",
+  "uploadedFrom": "mobile"
+}
