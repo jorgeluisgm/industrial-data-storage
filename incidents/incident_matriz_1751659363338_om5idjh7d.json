@@ -1,0 +1,19 @@
+{
+  "id": "1751659363338_om5idjh7d",
+  "locationId": "MTZ_ALMACEN_1_004",
+  "text": "a goku se le quebro un brazo",
+  "timestamp": "2025-07-04T20:02:43.338Z",
+  "type": "incident",
+  "incidentType": "personas",
+  "priority": "urgent",
+  "plant": "matriz",
+  "turn": "diurno",
+  "photoData": null,
+  "hasPhoto": false,
+  "savedAt": "2025-07-05T00:25:35.925Z",
+  "synced": false,
+  "device": "desktop",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-05T00:32:01.678Z",
+  "uploadedFrom": "desktop"
+}
