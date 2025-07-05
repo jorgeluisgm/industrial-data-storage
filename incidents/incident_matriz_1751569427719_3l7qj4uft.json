@@ -1,0 +1,27 @@
+{
+  "id": "1751569427719_3l7qj4uft",
+  "locationId": "MTZ_OFICINA_006",
+  "text": "Fuga baño hombres",
+  "timestamp": "2025-07-03T19:03:47.719Z",
+  "type": "incident",
+  "incidentType": "mantenimiento",
+  "plant": "matriz",
+  "turn": "diurno",
+  "photoData": {
+    "id": 5,
+    "size": 49376,
+    "timestamp": "2025-07-03T19:03:29.006Z",
+    "stored": "indexeddb",
+    "cloudBackup": {
+      "backedUp": false,
+      "pending": true
+    }
+  },
+  "hasPhoto": true,
+  "savedAt": "2025-07-05T00:45:40.684Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-05T00:46:53.197Z",
+  "uploadedFrom": "mobile"
+}
