@@ -1,0 +1,18 @@
+{
+  "locationId": "MTZ_ALMACEN_2_005",
+  "text": "Goku fumando mota",
+  "timestamp": "2025-07-01T18:53:34.906Z",
+  "type": "incident",
+  "incidentType": "personas",
+  "plant": "matriz",
+  "turn": "diurno",
+  "photoId": 1,
+  "hasPhoto": true,
+  "id": "1751676886054_556yuhzi6_incident",
+  "savedAt": "2025-07-05T00:54:46.055Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-05T00:55:32.166Z",
+  "uploadedFrom": "mobile"
+}
