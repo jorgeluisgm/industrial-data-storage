@@ -1,0 +1,18 @@
+{
+  "id": "1751583478268_mep4asf0c",
+  "locationId": "MTZ_OFICINA_006",
+  "text": "camara movida",
+  "timestamp": "2025-07-03T22:57:58.268Z",
+  "type": "incident",
+  "incidentType": "seguridad",
+  "plant": "matriz",
+  "turn": "diurno",
+  "photoData": null,
+  "hasPhoto": false,
+  "savedAt": "2025-07-05T00:31:39.463Z",
+  "synced": false,
+  "device": "desktop",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-05T00:32:22.683Z",
+  "uploadedFrom": "desktop"
+}
