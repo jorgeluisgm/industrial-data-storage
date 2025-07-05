@@ -1,0 +1,28 @@
+{
+  "id": "1751585078473_zn4iegtsq",
+  "locationId": "MTZ_ALMACEN_1_004",
+  "text": "Tarimas",
+  "timestamp": "2025-07-03T23:24:38.474Z",
+  "type": "incident",
+  "incidentType": "materiales",
+  "plant": "matriz",
+  "turn": "diurno",
+  "photoData": {
+    "id": 9,
+    "size": 49490,
+    "timestamp": "2025-07-03T23:24:25.011Z",
+    "stored": "indexeddb",
+    "cloudBackup": {
+      "backedUp": true,
+      "githubPath": "data/itssbt/9kcxpb.jpg",
+      "downloadUrl": "https://raw.githubusercontent.com/jorgeluisgm/industrial-data-storage/main/data/itssbt/9kcxpb.jpg"
+    }
+  },
+  "hasPhoto": true,
+  "savedAt": "2025-07-05T00:45:40.757Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-05T00:47:35.909Z",
+  "uploadedFrom": "mobile"
+}
