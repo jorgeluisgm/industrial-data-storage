@@ -1,0 +1,58 @@
+{
+  "id": "1751583738940",
+  "plant": "matriz",
+  "turn": "diurno",
+  "startTime": "2025-07-03T23:02:18.940Z",
+  "locations": {
+    "MTZ_ENTRADA_001": {
+      "timestamp": "2025-07-03T23:04:20.549Z",
+      "observations": [],
+      "photos": []
+    },
+    "MTZ_OFICINA_006": {
+      "timestamp": "2025-07-03T23:05:17.239Z",
+      "observations": [],
+      "photos": []
+    },
+    "MTZ_PATIO_008": {
+      "timestamp": "2025-07-03T23:05:44.532Z",
+      "observations": [],
+      "photos": []
+    }
+  },
+  "incidents": [
+    {
+      "id": "1751583775236_okgsajzng",
+      "locationId": "MTZ_SALIDA_EMERG_007",
+      "text": "Tarimas estorbando salida de emergencia",
+      "timestamp": "2025-07-03T23:02:55.236Z",
+      "type": "incident",
+      "incidentType": "materiales",
+      "plant": "matriz",
+      "turn": "diurno",
+      "photoData": {
+        "id": 8,
+        "size": 38335,
+        "timestamp": "2025-07-03T23:02:52.755Z",
+        "stored": "indexeddb",
+        "cloudBackup": {
+          "backedUp": true,
+          "githubPath": "data/itssbt/dzxvj9.jpg",
+          "downloadUrl": "https://raw.githubusercontent.com/jorgeluisgm/industrial-data-storage/main/data/itssbt/dzxvj9.jpg"
+        }
+      },
+      "hasPhoto": true,
+      "savedAt": "2025-07-03T23:02:55.240Z",
+      "synced": false
+    }
+  ],
+  "completed": true,
+  "endTime": "2025-07-03T23:05:49.393Z",
+  "completionPercentage": 30,
+  "savedAt": "2025-07-05T00:45:40.483Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-05T00:46:41.009Z",
+  "uploadedFrom": "mobile"
+}
