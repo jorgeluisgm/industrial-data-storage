@@ -1,0 +1,16 @@
+{
+  "id": "1750381455769",
+  "plant": "matriz",
+  "turn": "diurno",
+  "startTime": "2025-06-20T01:04:15.769Z",
+  "locations": {},
+  "incidents": [],
+  "completed": true,
+  "endTime": "2025-06-20T01:04:49.975Z",
+  "savedAt": "2025-07-05T00:45:40.450Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-05T00:45:55.191Z",
+  "uploadedFrom": "mobile"
+}
