@@ -1,0 +1,34 @@
+{
+  "id": "1751676573711_0bsoutn5q",
+  "locationId": "MTZ_VIGILANCIA_009",
+  "text": "Baso rojo en c4",
+  "timestamp": "2025-07-05T00:49:33.711Z",
+  "type": "incident",
+  "incidentType": "materiales",
+  "priority": "normal",
+  "plant": "matriz",
+  "turn": "diurno",
+  "photoData": {
+    "id": 11,
+    "blob": {},
+    "url": "blob:https://jorgeluisgm.github.io/0831473f-e959-46ea-9064-ffde81eb9ebb",
+    "size": 50736,
+    "timestamp": "2025-07-05T00:49:27.778Z",
+    "stored": "indexeddb",
+    "backedUp": true,
+    "githubPath": "data/itssbt/fk2ym.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/jorgeluisgm/industrial-data-storage/main/data/itssbt/fk2ym.jpg",
+    "cloudBackup": {
+      "backedUp": true,
+      "githubPath": "data/itssbt/fk2ym.jpg",
+      "downloadUrl": "https://raw.githubusercontent.com/jorgeluisgm/industrial-data-storage/main/data/itssbt/fk2ym.jpg"
+    }
+  },
+  "hasPhoto": true,
+  "savedAt": "2025-07-05T00:54:46.162Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-05T00:58:49.702Z",
+  "uploadedFrom": "mobile"
+}
