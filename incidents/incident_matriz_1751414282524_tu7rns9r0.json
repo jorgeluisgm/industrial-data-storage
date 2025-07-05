@@ -1,0 +1,23 @@
+{
+  "id": "1751414282524_tu7rns9r0",
+  "locationId": "MTZ_PATIO_008",
+  "text": "Sin observaciones adicionales",
+  "timestamp": "2025-07-01T23:58:02.524Z",
+  "type": "incident",
+  "incidentType": "materiales",
+  "plant": "matriz",
+  "turn": "diurno",
+  "photoData": {
+    "id": 4,
+    "size": 42343,
+    "timestamp": "2025-07-01T23:57:49.266Z",
+    "stored": "indexeddb"
+  },
+  "hasPhoto": true,
+  "savedAt": "2025-07-05T00:45:40.655Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-05T00:46:45.679Z",
+  "uploadedFrom": "mobile"
+}
