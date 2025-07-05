@@ -1,0 +1,22 @@
+{
+  "id": "1751065168199",
+  "plant": "matriz",
+  "turn": "diurno",
+  "startTime": "2025-06-27T22:59:28.199Z",
+  "locations": {
+    "MTZ_ENTRADA_001": {
+      "timestamp": "2025-06-27T23:00:43.219Z",
+      "observations": [],
+      "photos": []
+    }
+  },
+  "incidents": [],
+  "completed": true,
+  "endTime": "2025-06-27T23:02:03.230Z",
+  "savedAt": "2025-07-05T00:45:40.452Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-05T00:45:59.023Z",
+  "uploadedFrom": "mobile"
+}
