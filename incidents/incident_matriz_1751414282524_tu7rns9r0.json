@@ -14,10 +14,10 @@
     "stored": "indexeddb"
   },
   "hasPhoto": true,
-  "savedAt": "2025-07-05T01:00:50.203Z",
+  "savedAt": "2025-07-05T01:24:52.800Z",
   "synced": false,
-  "device": "mobile",
+  "device": "desktop",
   "syncVersion": 1,
-  "uploadedAt": "2025-07-05T01:02:06.335Z",
-  "uploadedFrom": "mobile"
+  "uploadedAt": "2025-07-05T01:24:53.803Z",
+  "uploadedFrom": "desktop"
 }
