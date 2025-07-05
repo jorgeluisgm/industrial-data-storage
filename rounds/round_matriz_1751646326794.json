@@ -1,0 +1,66 @@
+{
+  "id": "1751646326794",
+  "plant": "matriz",
+  "turn": "diurno",
+  "startTime": "2025-07-04T16:25:26.794Z",
+  "locations": {
+    "MTZ_PATIO_008": {
+      "timestamp": "2025-07-04T16:26:22.509Z",
+      "observations": [],
+      "photos": []
+    },
+    "MTZ_ENTRADA_001": {
+      "timestamp": "2025-07-04T16:27:47.367Z",
+      "observations": [],
+      "photos": []
+    },
+    "MTZ_PASILLO_A_002": {
+      "timestamp": "2025-07-04T16:28:17.070Z",
+      "observations": [],
+      "photos": []
+    },
+    "MTZ_OFICINA_006": {
+      "timestamp": "2025-07-04T16:28:35.370Z",
+      "observations": [],
+      "photos": []
+    }
+  },
+  "incidents": [
+    {
+      "id": "1751646368700_jbsowxqt0",
+      "locationId": "MTZ_SALIDA_EMERG_007",
+      "text": "Goku comiendo chicoflan",
+      "timestamp": "2025-07-04T16:26:08.701Z",
+      "type": "incident",
+      "incidentType": "personas",
+      "plant": "matriz",
+      "turn": "diurno",
+      "photoData": {
+        "id": 10,
+        "blob": {},
+        "url": "blob:https://jorgeluisgm.github.io/a81277a2-c343-41c0-affc-246fcf894e5f",
+        "size": 56678,
+        "timestamp": "2025-07-04T16:25:58.965Z",
+        "stored": "indexeddb",
+        "backedUp": true,
+        "githubPath": "data/itssbt/iwdp6f.jpg",
+        "downloadUrl": "https://raw.githubusercontent.com/jorgeluisgm/industrial-data-storage/main/data/itssbt/iwdp6f.jpg",
+        "cloudBackup": {
+          "backedUp": true,
+          "githubPath": "data/itssbt/iwdp6f.jpg",
+          "downloadUrl": "https://raw.githubusercontent.com/jorgeluisgm/industrial-data-storage/main/data/itssbt/iwdp6f.jpg"
+        }
+      },
+      "hasPhoto": true
+    }
+  ],
+  "completed": true,
+  "endTime": "2025-07-04T16:28:46.054Z",
+  "completionPercentage": 40,
+  "savedAt": "2025-07-05T00:45:40.492Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-05T00:46:52.703Z",
+  "uploadedFrom": "mobile"
+}
