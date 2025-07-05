@@ -1,7 +1,7 @@
 {
   "id": "1751569427719_3l7qj4uft",
   "locationId": "MTZ_OFICINA_006",
-  "text": "Fuga baño hombres",
+  "text": "Fuga baï¿½o hombres",
   "timestamp": "2025-07-03T19:03:47.719Z",
   "type": "incident",
   "incidentType": "mantenimiento",
@@ -18,10 +18,10 @@
     }
   },
   "hasPhoto": true,
-  "savedAt": "2025-07-05T01:00:50.223Z",
+  "savedAt": "2025-07-05T16:12:54.370Z",
   "synced": false,
-  "device": "mobile",
+  "device": "desktop",
   "syncVersion": 1,
-  "uploadedAt": "2025-07-05T01:02:13.683Z",
-  "uploadedFrom": "mobile"
+  "uploadedAt": "2025-07-05T16:14:56.370Z",
+  "uploadedFrom": "desktop"
 }
