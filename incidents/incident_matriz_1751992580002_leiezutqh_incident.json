@@ -1,0 +1,18 @@
+{
+  "locationId": "MTZ_OFICINA_006",
+  "text": "Foco fundido pasillo",
+  "timestamp": "2025-06-28T16:41:22.910Z",
+  "type": "incident",
+  "incidentType": "mantenimiento",
+  "plant": "matriz",
+  "turn": "diurno",
+  "photoUrl": "blob:https://jorgeluisgm.github.io/dae78f91-a4a7-48e7-98ba-76a21e56d475",
+  "hasPhoto": true,
+  "id": "1751992580002_leiezutqh_incident",
+  "savedAt": "2025-07-08T16:36:20.002Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-08T16:37:11.344Z",
+  "uploadedFrom": "mobile"
+}
