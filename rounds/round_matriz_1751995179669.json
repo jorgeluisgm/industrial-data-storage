@@ -1,0 +1,31 @@
+{
+  "id": "1751995179669",
+  "plant": "matriz",
+  "turn": "diurno",
+  "startTime": "2025-07-08T17:19:39.669Z",
+  "locations": {},
+  "incidents": [
+    {
+      "id": "1751995192061_363rgzkrk",
+      "locationId": "MTZ_ALMACEN_2_005",
+      "text": "ddsdjhsxzdfg",
+      "timestamp": "2025-07-08T17:19:52.061Z",
+      "type": "incident",
+      "incidentType": "seguridad",
+      "priority": "normal",
+      "plant": "matriz",
+      "turn": "diurno",
+      "photoData": null,
+      "hasPhoto": false
+    }
+  ],
+  "completed": true,
+  "endTime": "2025-07-08T17:19:57.531Z",
+  "completionPercentage": 0,
+  "savedAt": "2025-07-08T17:20:13.571Z",
+  "synced": false,
+  "device": "desktop",
+  "syncVersion": 1,
+  "uploadedAt": "2025-07-08T17:20:26.490Z",
+  "uploadedFrom": "desktop"
+}
