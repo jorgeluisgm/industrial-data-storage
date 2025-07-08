@@ -1,7 +1,7 @@
 {
   "id": "1751414211154_zn49dc09r",
   "locationId": "MTZ_OFICINA_006",
-  "text": "Tuberï¿½a rota baï¿½o hombres",
+  "text": "Tubería rota baño hombres",
   "timestamp": "2025-07-01T23:56:51.154Z",
   "type": "incident",
   "incidentType": "mantenimiento",
@@ -14,10 +14,10 @@
     "stored": "indexeddb"
   },
   "hasPhoto": true,
-  "savedAt": "2025-07-07T22:16:32.323Z",
+  "savedAt": "2025-07-08T16:34:17.697Z",
   "synced": false,
-  "device": "desktop",
+  "device": "mobile",
   "syncVersion": 1,
-  "uploadedAt": "2025-07-07T22:17:06.999Z",
-  "uploadedFrom": "desktop"
+  "uploadedAt": "2025-07-08T16:35:16.230Z",
+  "uploadedFrom": "mobile"
 }
