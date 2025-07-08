@@ -7,10 +7,11 @@
   "incidents": [],
   "completed": true,
   "endTime": "2025-06-20T01:04:49.975Z",
-  "savedAt": "2025-07-08T16:34:17.552Z",
+  "savedAt": "2025-07-08T16:36:19.905Z",
   "synced": false,
   "device": "mobile",
   "syncVersion": 1,
-  "uploadedAt": "2025-07-08T16:34:31.811Z",
+  "syncedAt": "2025-07-08T16:34:32.713Z",
+  "uploadedAt": "2025-07-08T16:36:57.342Z",
   "uploadedFrom": "mobile"
 }
