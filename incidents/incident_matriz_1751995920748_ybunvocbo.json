@@ -1,7 +1,7 @@
 {
   "id": "1751995920748_ybunvocbo",
   "locationId": "MTZ_OFICINA_006",
-  "text": "Fuga de agua baï¿½o de hombres",
+  "text": "Fuga de agua baño de hombres",
   "timestamp": "2025-07-08T17:32:00.748Z",
   "type": "incident",
   "incidentType": "mantenimiento",
@@ -25,10 +25,10 @@
     }
   },
   "hasPhoto": true,
-  "savedAt": "2025-07-08T20:53:38.848Z",
+  "savedAt": "2025-07-14T18:29:06.204Z",
   "synced": false,
-  "device": "desktop",
+  "device": "mobile",
   "syncVersion": 1,
-  "uploadedAt": "2025-07-08T20:54:02.697Z",
-  "uploadedFrom": "desktop"
+  "uploadedAt": "2025-07-14T18:29:22.754Z",
+  "uploadedFrom": "mobile"
 }
