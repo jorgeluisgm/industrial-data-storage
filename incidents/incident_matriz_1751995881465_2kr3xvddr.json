@@ -1,7 +1,7 @@
 {
   "id": "1751995881465_2kr3xvddr",
   "locationId": "MTZ_OFICINA_006",
-  "text": "Fuga de agua en el ba�o de hombres",
+  "text": "Fuga de agua en el baño de hombres",
   "timestamp": "2025-07-08T17:31:21.465Z",
   "type": "incident",
   "incidentType": "mantenimiento",
@@ -10,10 +10,10 @@
   "turn": "diurno",
   "photoData": null,
   "hasPhoto": false,
-  "savedAt": "2025-08-18T18:39:02.032Z",
+  "savedAt": "2025-08-19T16:21:58.446Z",
   "synced": false,
-  "device": "desktop",
+  "device": "mobile",
   "syncVersion": 1,
-  "uploadedAt": "2025-08-19T15:21:12.793Z",
-  "uploadedFrom": "desktop"
+  "uploadedAt": "2025-08-19T16:22:10.178Z",
+  "uploadedFrom": "mobile"
 }
