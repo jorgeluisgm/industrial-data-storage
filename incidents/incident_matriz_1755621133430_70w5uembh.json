@@ -1,0 +1,34 @@
+{
+  "id": "1755621133430_70w5uembh",
+  "locationId": "MTZ_REDDY_A_002",
+  "text": "Personal de diseño comiendo",
+  "timestamp": "2025-08-19T16:32:13.430Z",
+  "type": "incident",
+  "incidentType": "personas",
+  "priority": "normal",
+  "plant": "matriz",
+  "turn": "diurno",
+  "photoData": {
+    "id": 3,
+    "blob": {},
+    "url": "blob:https://jorgeluisgm.github.io/18d1a89c-745f-4e9e-a52b-f41239589ee3",
+    "size": 38380,
+    "timestamp": "2025-08-19T16:32:07.153Z",
+    "stored": "indexeddb",
+    "backedUp": true,
+    "githubPath": "data/itssbs/xwoi96.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/jorgeluisgm/industrial-data-storage/main/data/itssbs/xwoi96.jpg",
+    "cloudBackup": {
+      "backedUp": true,
+      "githubPath": "data/itssbs/xwoi96.jpg",
+      "downloadUrl": "https://raw.githubusercontent.com/jorgeluisgm/industrial-data-storage/main/data/itssbs/xwoi96.jpg"
+    }
+  },
+  "hasPhoto": true,
+  "savedAt": "2025-08-19T16:33:05.021Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-08-19T16:33:36.316Z",
+  "uploadedFrom": "mobile"
+}
