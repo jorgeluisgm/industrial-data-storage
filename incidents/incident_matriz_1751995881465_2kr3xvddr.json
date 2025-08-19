@@ -10,10 +10,10 @@
   "turn": "diurno",
   "photoData": null,
   "hasPhoto": false,
-  "savedAt": "2025-08-19T16:33:05.005Z",
+  "savedAt": "2025-08-19T16:35:14.724Z",
   "synced": false,
-  "device": "mobile",
+  "device": "desktop",
   "syncVersion": 1,
-  "uploadedAt": "2025-08-19T16:33:24.576Z",
-  "uploadedFrom": "mobile"
+  "uploadedAt": "2025-08-19T21:54:00.035Z",
+  "uploadedFrom": "desktop"
 }
