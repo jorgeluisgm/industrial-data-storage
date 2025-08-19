@@ -1,0 +1,34 @@
+{
+  "id": "1755621091543_qdasb4rnk",
+  "locationId": "MTZ_COMPRESORES_A_006",
+  "text": "Fuga de agua",
+  "timestamp": "2025-08-19T16:31:31.543Z",
+  "type": "incident",
+  "incidentType": "mantenimiento",
+  "priority": "high",
+  "plant": "matriz",
+  "turn": "diurno",
+  "photoData": {
+    "id": 2,
+    "blob": {},
+    "url": "blob:https://jorgeluisgm.github.io/0ab97e81-0a34-41d7-9a38-d4de129dfa0b",
+    "size": 42996,
+    "timestamp": "2025-08-19T16:31:24.748Z",
+    "stored": "indexeddb",
+    "backedUp": true,
+    "githubPath": "data/itssbs/pysvyu.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/jorgeluisgm/industrial-data-storage/main/data/itssbs/pysvyu.jpg",
+    "cloudBackup": {
+      "backedUp": true,
+      "githubPath": "data/itssbs/pysvyu.jpg",
+      "downloadUrl": "https://raw.githubusercontent.com/jorgeluisgm/industrial-data-storage/main/data/itssbs/pysvyu.jpg"
+    }
+  },
+  "hasPhoto": true,
+  "savedAt": "2025-08-19T16:33:05.015Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-08-19T16:33:32.156Z",
+  "uploadedFrom": "mobile"
+}
