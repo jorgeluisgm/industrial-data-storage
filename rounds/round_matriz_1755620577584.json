@@ -116,10 +116,10 @@
   "completed": true,
   "endTime": "2025-08-19T16:32:27.369Z",
   "completionPercentage": 100,
-  "savedAt": "2025-08-19T16:33:04.988Z",
+  "savedAt": "2025-08-19T16:35:14.093Z",
   "synced": false,
-  "device": "mobile",
+  "device": "desktop",
   "syncVersion": 1,
-  "uploadedAt": "2025-08-19T16:33:23.747Z",
-  "uploadedFrom": "mobile"
+  "uploadedAt": "2025-08-19T16:35:15.104Z",
+  "uploadedFrom": "desktop"
 }
