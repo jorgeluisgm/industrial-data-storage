@@ -1,0 +1,125 @@
+{
+  "id": "1755620577584",
+  "plant": "matriz",
+  "turn": "diurno",
+  "startTime": "2025-08-19T16:22:57.584Z",
+  "locations": {
+    "MTZ_BOMBA_A_001": {
+      "timestamp": "2025-08-19T16:24:07.104Z",
+      "observations": [],
+      "photos": []
+    },
+    "MTZ_PORTON_A_004": {
+      "timestamp": "2025-08-19T16:25:03.546Z",
+      "observations": [],
+      "photos": []
+    },
+    "MTZ_MALLA_A_005": {
+      "timestamp": "2025-08-19T16:25:34.826Z",
+      "observations": [],
+      "photos": []
+    },
+    "MTZ_ESTACION_A_007": {
+      "timestamp": "2025-08-19T16:26:33.096Z",
+      "observations": [],
+      "photos": []
+    },
+    "MTZ_COMPRESORES_A_006": {
+      "timestamp": "2025-08-19T16:26:55.737Z",
+      "observations": [],
+      "photos": []
+    },
+    "MTZ_SEMERGENCIA_A_008": {
+      "timestamp": "2025-08-19T16:28:01.913Z",
+      "observations": [],
+      "photos": []
+    },
+    "MTZ_ADUANA_A_009": {
+      "timestamp": "2025-08-19T16:28:35.307Z",
+      "observations": [],
+      "photos": []
+    },
+    "MTZ_ESTACION_010": {
+      "timestamp": "2025-08-19T16:28:59.239Z",
+      "observations": [],
+      "photos": []
+    },
+    "MTZ_REDDY_A_002": {
+      "timestamp": "2025-08-19T16:29:30.221Z",
+      "observations": [],
+      "photos": []
+    },
+    "MTZ_DEVOLUCIONES_A_003": {
+      "timestamp": "2025-08-19T16:29:52.683Z",
+      "observations": [],
+      "photos": []
+    }
+  },
+  "incidents": [
+    {
+      "id": "1755621091543_qdasb4rnk",
+      "locationId": "MTZ_COMPRESORES_A_006",
+      "text": "Fuga de agua",
+      "timestamp": "2025-08-19T16:31:31.543Z",
+      "type": "incident",
+      "incidentType": "mantenimiento",
+      "priority": "high",
+      "plant": "matriz",
+      "turn": "diurno",
+      "photoData": {
+        "id": 2,
+        "blob": {},
+        "url": "blob:https://jorgeluisgm.github.io/0ab97e81-0a34-41d7-9a38-d4de129dfa0b",
+        "size": 42996,
+        "timestamp": "2025-08-19T16:31:24.748Z",
+        "stored": "indexeddb",
+        "backedUp": true,
+        "githubPath": "data/itssbs/pysvyu.jpg",
+        "downloadUrl": "https://raw.githubusercontent.com/jorgeluisgm/industrial-data-storage/main/data/itssbs/pysvyu.jpg",
+        "cloudBackup": {
+          "backedUp": true,
+          "githubPath": "data/itssbs/pysvyu.jpg",
+          "downloadUrl": "https://raw.githubusercontent.com/jorgeluisgm/industrial-data-storage/main/data/itssbs/pysvyu.jpg"
+        }
+      },
+      "hasPhoto": true
+    },
+    {
+      "id": "1755621133430_70w5uembh",
+      "locationId": "MTZ_REDDY_A_002",
+      "text": "Personal de diseño comiendo",
+      "timestamp": "2025-08-19T16:32:13.430Z",
+      "type": "incident",
+      "incidentType": "personas",
+      "priority": "normal",
+      "plant": "matriz",
+      "turn": "diurno",
+      "photoData": {
+        "id": 3,
+        "blob": {},
+        "url": "blob:https://jorgeluisgm.github.io/18d1a89c-745f-4e9e-a52b-f41239589ee3",
+        "size": 38380,
+        "timestamp": "2025-08-19T16:32:07.153Z",
+        "stored": "indexeddb",
+        "backedUp": true,
+        "githubPath": "data/itssbs/xwoi96.jpg",
+        "downloadUrl": "https://raw.githubusercontent.com/jorgeluisgm/industrial-data-storage/main/data/itssbs/xwoi96.jpg",
+        "cloudBackup": {
+          "backedUp": true,
+          "githubPath": "data/itssbs/xwoi96.jpg",
+          "downloadUrl": "https://raw.githubusercontent.com/jorgeluisgm/industrial-data-storage/main/data/itssbs/xwoi96.jpg"
+        }
+      },
+      "hasPhoto": true
+    }
+  ],
+  "completed": true,
+  "endTime": "2025-08-19T16:32:27.369Z",
+  "completionPercentage": 100,
+  "savedAt": "2025-08-19T16:33:04.988Z",
+  "synced": false,
+  "device": "mobile",
+  "syncVersion": 1,
+  "uploadedAt": "2025-08-19T16:33:23.747Z",
+  "uploadedFrom": "mobile"
+}
