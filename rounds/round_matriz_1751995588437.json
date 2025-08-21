@@ -29,7 +29,7 @@
     {
       "id": "1751995881465_2kr3xvddr",
       "locationId": "MTZ_OFICINA_006",
-      "text": "Fuga de agua en el ba�o de hombres",
+      "text": "Fuga de agua en el baño de hombres",
       "timestamp": "2025-07-08T17:31:21.465Z",
       "type": "incident",
       "incidentType": "mantenimiento",
@@ -42,7 +42,7 @@
     {
       "id": "1751995920748_ybunvocbo",
       "locationId": "MTZ_OFICINA_006",
-      "text": "Fuga de agua ba�o de hombres",
+      "text": "Fuga de agua baño de hombres",
       "timestamp": "2025-07-08T17:32:00.748Z",
       "type": "incident",
       "incidentType": "mantenimiento",
@@ -71,11 +71,11 @@
   "completed": true,
   "endTime": "2025-07-08T17:32:03.732Z",
   "completionPercentage": 40,
-  "savedAt": "2025-08-21T15:35:15.156Z",
+  "savedAt": "2025-08-21T19:28:30.859Z",
   "synced": false,
-  "device": "desktop",
+  "device": "mobile",
   "syncVersion": 1,
   "syncedAt": "2025-07-08T17:32:30.018Z",
-  "uploadedAt": "2025-08-21T15:35:32.175Z",
-  "uploadedFrom": "desktop"
+  "uploadedAt": "2025-08-21T19:28:41.321Z",
+  "uploadedFrom": "mobile"
 }
