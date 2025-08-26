@@ -10,11 +10,11 @@
   "turn": "diurno",
   "photoData": null,
   "hasPhoto": false,
-  "savedAt": "2025-08-21T19:28:44.120Z",
+  "savedAt": "2025-08-26T16:06:28.147Z",
   "synced": false,
-  "device": "mobile",
+  "device": "desktop",
   "syncVersion": 1,
   "syncedAt": "2025-07-08T17:35:13.664Z",
-  "uploadedAt": "2025-08-21T19:28:45.126Z",
-  "uploadedFrom": "mobile"
+  "uploadedAt": "2025-08-26T16:06:41.771Z",
+  "uploadedFrom": "desktop"
 }
